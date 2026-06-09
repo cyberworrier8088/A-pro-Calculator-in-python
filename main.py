@@ -13,3 +13,9 @@ num2 = int(num2)
 if option == "1":
     result = math.plus(num1, num2)
     print(f"ur result: ", result)
+elif option == "2":
+    result = math.minus(num1, num2)
+    print(f"ur result: ", result)
+elif option == "3":
+    result = math.multiplication(num1, nun2)
+    print(f"ur result: ", result)
