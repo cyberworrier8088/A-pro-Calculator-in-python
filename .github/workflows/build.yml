@@ -32,7 +32,7 @@ jobs:
         run: |
           python -m nuitka `
             --onefile `
-            --follow-imports `
+            --assume-yes-for-downloads `
             main.py
 
       - name: Upload EXE
