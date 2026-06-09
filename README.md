@@ -29,4 +29,4 @@ python main.py
 ## How to Download the Windows EXE
 
 You can download the pre-compiled `.exe` file directly from GitHub:
-[Demo](https://github.com/cyberworrier8088/A-pro-Calculator-in-python.git)
+[Demo](https://github.com/cyberworrier8088/A-pro-Calculator-in-python/releases/tag/demo)
