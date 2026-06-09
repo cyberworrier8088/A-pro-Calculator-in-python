@@ -9,3 +9,5 @@ def banner():
     print("3 multiplication")
     print("4 division")
     print("5 square")
+    print("6 exit")
+
