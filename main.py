@@ -7,7 +7,7 @@ while True:
     option = input("\nEnter ur option (1-6): ").strip().lower()
 
     if option in ("6", "exit", "q", "quit"):
-        print("Goodbye! Thank you for using Beautiful Calc. 😊")
+        print("Goodbye! Thank you for using Beautiful Calc :)")
         break
 
     if option in ("1", "2", "3", "4"):
